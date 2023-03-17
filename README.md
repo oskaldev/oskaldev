@@ -1,7 +1,7 @@
  
 
 # 👋 Hi, here you can see my code and activity!
-
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=frontend+developer)](https://git.io/typing-svg)
 - 💬 Glad to see you on my GitHub 
 
 - 💻 My name is Artem, I'm keen on programming, creating websites and web applications ⚡
@@ -17,3 +17,9 @@
  <a href="https://vk.com/localzet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/vk.svg" alt="Калантарян Артём" height="30" width="40" /></a>
 <a href="https://t.me/oskaldev" target="blank"><img align="center" src="https://www.svgrepo.com/download/343522/telegram-communication-chat-interaction-network-connection.svg" alt="oskaldev" height="30" width="40" /></a>
 
+ 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/oskaldev/output/github-contribution-grid-snake.svg">
+</picture>
