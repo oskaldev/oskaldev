@@ -1,6 +1,7 @@
  
 
 # 👋 Hi, here you can see my code and activity!
+## Ушёл в армию на год :(
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=frontend+developer)](https://git.io/typing-svg)
 - 💬 Glad to see you on my GitHub 
 
