@@ -18,4 +18,4 @@
 <a href="https://t.me/oskaldev" target="blank"><img align="center" src="https://www.svgrepo.com/download/343522/telegram-communication-chat-interaction-network-connection.svg" alt="oskaldev" height="30" width="40" /></a>
 
 ---
-![snake gif](https://github.com/oskaldev/oskaldev/blob/output/github-contribution-grid-snake.gif)
+
