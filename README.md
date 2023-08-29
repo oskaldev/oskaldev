@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
  <a href="https://vk.com/oskaldev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/vk.svg" alt="Калантарян Артём" height="30" width="40" /></a>
-<a href="https://t.me/oskaldev" target="blank"><img align="center" src="https://www.svgrepo.com/download/343522/telegram-communication-chat-interaction-network-connection.svg" alt="oskaldev" height="30" width="40" /></a>
+<a href="https://t.me/klartem" target="blank"><img align="center" src="https://www.svgrepo.com/download/343522/telegram-communication-chat-interaction-network-connection.svg" alt="oskaldev" height="30" width="40" /></a>
 
 ---
 
