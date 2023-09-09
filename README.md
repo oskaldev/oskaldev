@@ -6,7 +6,7 @@
 
 - 💻 My name is Artem, I'm keen on programming, creating websites and web applications ⚡
 
-- ✍️ I’m currently learning **React, TS/JS PHP**
+- ✍️ I’m currently learning **React, TS/JS**
 
 - 📫 How to reach me **artem-kalantaryan@mail.ru**
 
