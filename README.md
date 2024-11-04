@@ -1,7 +1,6 @@
  
 
-## 💻👋 Сalled up for military service for a year, I'll be back soon!
-### 💻👋 Hi, I'm Kalantaryan Artem, here you can see my code and activity!
+## 💻👋 Hi, I'm Kalantaryan Artem, here you can see my code and activity!
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=frontend+developer)](https://git.io/typing-svg)
 - 💬 Glad to see you on my GitHub 
 
