@@ -8,7 +8,7 @@
 
 - :octocat: My website [@oskaldev](https://oskaldev.github.io/)
 
-<p align="left" style="display: flex; align-items: center; gap: 10px;">
+<p align="left"">
 	<a href="https://leetcode.com/oskaldev/" target="blank">
 		<img src="https://img.icons8.com/?size=80&id=wDGo581Ea5Nf&format=png" height="35"/>
 	</a>
