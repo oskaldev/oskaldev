@@ -16,7 +16,7 @@
 		<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/vk.svg" height="35"/>
 	</a>
 	<a href="https://t.me/klartem" target="blank">
-		<img src="https://www.svgrepo.com/download/343522/telegram-communication-chat-interaction-network-connection.svg" height="35"/>
+		<img src="https://img.icons8.com/?size=100&id=oWiuH0jFiU0R&format=png&color=000000" height="35"/>
 	</a>
 	<a href="https://www.linkedin.com/in/oskaldev/" target="blank">
 		<img src="https://img.icons8.com/?size=1x&id=xuvGCOXi8Wyg&format=png" height="35"/>
